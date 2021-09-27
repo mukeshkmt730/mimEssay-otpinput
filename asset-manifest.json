@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mimEssay-otpinput/static/css/main.a617e044.chunk.css",
+    "main.js": "/mimEssay-otpinput/static/js/main.052956a3.chunk.js",
+    "main.js.map": "/mimEssay-otpinput/static/js/main.052956a3.chunk.js.map",
+    "runtime-main.js": "/mimEssay-otpinput/static/js/runtime-main.215dbb38.js",
+    "runtime-main.js.map": "/mimEssay-otpinput/static/js/runtime-main.215dbb38.js.map",
+    "static/js/2.3641600f.chunk.js": "/mimEssay-otpinput/static/js/2.3641600f.chunk.js",
+    "static/js/2.3641600f.chunk.js.map": "/mimEssay-otpinput/static/js/2.3641600f.chunk.js.map",
+    "static/js/3.fc21dcd8.chunk.js": "/mimEssay-otpinput/static/js/3.fc21dcd8.chunk.js",
+    "static/js/3.fc21dcd8.chunk.js.map": "/mimEssay-otpinput/static/js/3.fc21dcd8.chunk.js.map",
+    "index.html": "/mimEssay-otpinput/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/mimEssay-otpinput/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3641600f.chunk.js.LICENSE.txt": "/mimEssay-otpinput/static/js/2.3641600f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.215dbb38.js",
+    "static/js/2.3641600f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.052956a3.chunk.js"
+  ]
+}
